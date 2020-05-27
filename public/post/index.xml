@@ -27,7 +27,14 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;Data Science (von englisch data „Daten“ und science „Wissenschaft“, im Deutschen auch Datenwissenschaft) bezeichnet generell die Extraktion von Wissen aus Daten.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Einführung in R und Data Science&lt;/p&gt;
+&lt;h1 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h1&gt;
+&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr größere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen könnt, ohne dafür einen Stift in die Hand nehmen zu müssen oder Copy-Paste zu drücken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
+Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer häufiger verwendet, um kostengünstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.&lt;/p&gt;
+&lt;h1 id=&#34;daten-analysieren-und-darstellen&#34;&gt;Daten analysieren und darstellen&lt;/h1&gt;
+&lt;h1 id=&#34;daten-präsentieren--shiny-apps&#34;&gt;Daten präsentieren &amp;amp; Shiny Apps&lt;/h1&gt;
+&lt;p&gt;Wer interessante Ergebnisse und schöne Visualisierungen zu bieten hat, will diese natürlich auch präsentieren! Wir zeigen euch wie ihr, im letzten Schritt unseres Kurses, mit Hilfe von R Shiny App die Resultate eurer Arbeit präsentierbar macht. Hier verbinden wir alles zuvor gelernte, die essentiellen Basics, eure gesammelten Daten, sowie deren Analyse und Visualisierung, in einem Tool. Im Verlauf des Kurses werdet ihr ein eigenes Gruppenprojekt umsetzen und uns das finale Produkt dann am letzten Tag präsentieren.&lt;/p&gt;
+&lt;p&gt;Data Science (von englisch data „Daten“ und science „Wissenschaft“, im Deutschen auch Datenwissenschaft) bezeichnet generell die Extraktion von Wissen aus Daten.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,21 +48,30 @@ In Hack your Future zeigen wir euch, wie ihr an interessante Daten kommt, wie ih
     </item>
     
     <item>
-      <title>Information for Parents and Educators</title>
+      <title>Informationen für Eltern</title>
       <link>/post/information-for-parents/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/information-for-parents/</guid>
-      <description>&lt;p&gt;The project is organized by the University of Cologne.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden? Wir würden uns freuen, Ihre Tochte an Data Science heranzuführen. Wer wir sind, stellen wir Ihnen hier (-&amp;gt; Link) vor. Sollte der Kurs an der Universität zu Köln stattfinden können, müsste Ihre Tochter pünktlich zu den Kursen erscheinen und Essen und Trinken oder Geld für das Mittagessen mitbringen. Die Universität zu Köln stellt alles weitere. Sollte der Kurs online stattfinden, informieren Sie sich bitte hier (-&amp;gt; Link) über die Voraussetzungen einer Teilnahme.&lt;/p&gt;
+
+&lt;p&gt;Gerne können Sie sich auch bei Fragen an uns wenden. Kontaktinformationen finden Sie hier (-&amp;gt; Link).&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Preliminary Schedule</title>
+      <title>Preliminary Schedule - Kurs Outline</title>
       <link>/post/preliminary-schedule/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/preliminary-schedule/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;einfhrung-in-r-und-data-science&#34;&gt;Einf�hrung in R und Data Science&lt;/h1&gt;
+&lt;h1 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h1&gt;
+&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet h�ndisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr gr��ere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen k�nnt, ohne daf�r einen Stift in die Hand nehmen zu m�ssen oder Copy-Paste zu dr�cken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
+Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer h�ufiger verwendet, um kosteng�nstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.&lt;/p&gt;
+&lt;h1 id=&#34;daten-analysieren-und-darstellen&#34;&gt;Daten analysieren und darstellen&lt;/h1&gt;
+&lt;h1 id=&#34;daten-prsentieren--shiny-apps&#34;&gt;Daten pr�sentieren &amp;amp; Shiny Apps&lt;/h1&gt;
+&lt;p&gt;Wer interessante Ergebnisse und sch�ne Visualisierungen zu bieten hat, will diese nat�rlich auch pr�sentieren! Wir zeigen euch wie ihr, im letzten Schritt unseres Kurses, mit Hilfe von R Shiny App die Resultate eurer Arbeit pr�sentierbar macht. Hier verbinden wir alles zuvor gelernte, die essentiellen Basics, eure gesammelten Daten, sowie deren Analyse und Visualisierung, in einem Tool. Im Verlauf des Kurses werdet ihr ein eigenes Gruppenprojekt umsetzen und uns das finale Produkt dann am letzten Tag pr�sentieren.&lt;/p&gt;
+&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,7 +80,7 @@ In Hack your Future zeigen wir euch, wie ihr an interessante Daten kommt, wie ih
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>Here we have a small presentation of organizers, their professional background as well as research interests.</description>
+      <description>Intro/Mission Statement:Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben. Unser Arbeitsalltag besteht hauptsächlich aus der Bearbeitung und Analyse von Daten, durch die wir wichtige Einblicke in Politik, Wirtschaft und die Gesellschaft erhalten. Dieses Wissen wollen wir gerne mit euch teilen und euch in unserem einwöchigen Datascience Workshop “Hack your Future” an die Arbeit mit Daten heranführen.</description>
     </item>
     
   </channel>
