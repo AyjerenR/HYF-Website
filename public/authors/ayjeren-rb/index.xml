@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayjeren RB on Hack Your Future</title>
+    <link>/authors/ayjeren-rb/</link>
+    <description>Recent content in Ayjeren RB on Hack Your Future</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/ayjeren-rb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello from the Team</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>Mission Statement:Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.
+Unser Arbeitsalltag besteht hauptsächlich aus der Bearbeitung und Analyse von Daten, durch die wir wichtige Einblicke in Politik, Wirtschaft und die Gesellschaft erhalten. Dieses Wissen wollen wir gerne mit euch teilen und euch in unserem einwöchigen Datascience Workshop “Hack your Future” an die Arbeit mit Daten heranführen.</description>
+    </item>
+    
+  </channel>
+</rss>
