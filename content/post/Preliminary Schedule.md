@@ -13,12 +13,14 @@ title: Preliminary Schedule - Kurs Outline
 ---
 
 
-# Einf?hrung in R und Data Science
-
 
 # Daten sammeln & Web Scraping 
 
-Habt ihr schon einmal Daten aus dem Internet h?ndisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr gr??ere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen k?nnt, ohne daf?r einen Stift in die Hand nehmen zu m?ssen oder Copy-Paste zu dr?cken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
+Habt ihr schon einmal Daten aus dem Internet h?ndisch abgeschrieben? 
+
+<!--more-->
+
+In diesem Kurs lernt ihr, wie ihr gr??ere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen k?nnt, ohne daf?r einen Stift in die Hand nehmen zu m?ssen oder Copy-Paste zu dr?cken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
 Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer h?ufiger verwendet, um kosteng?nstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.
 
 

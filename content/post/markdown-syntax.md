@@ -26,7 +26,11 @@ Einführung in R und Data Science
 
 # Daten sammeln & Web Scraping 
 
-Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr größere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen könnt, ohne dafür einen Stift in die Hand nehmen zu müssen oder Copy-Paste zu drücken. 
+Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben? 
+
+<!--more-->
+
+In diesem Kurs lernt ihr, wie ihr größere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen könnt, ohne dafür einen Stift in die Hand nehmen zu müssen oder Copy-Paste zu drücken. 
 
 <!--more-->
 Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
