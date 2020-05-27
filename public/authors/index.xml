@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/authors/lea-kaftan/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lea-kaftan/</guid>
+      <description>Mich fasziniert es, Bürgerinnen und Bürger zu fragen, was Demokratie für sie bedeutet oder die Demokratiekonzepte deutscher Parteien zu analysieren. Deswegen untersuche ich in meiner Doktorarbeit, inwiefern die Einstellung zu Demokratie das Wahlverhalten von Bürgerinnen und Bürgern beeinflusst. Um diese Frage zu beantworten, analysiere ich tagtäglich Daten aus Umfragen und Daten über Parteien. Diese Leidenschaft für die Analyse von Daten möchte ich euch näher bringen. Vor allem möchte ich euch zeigen, wie ihr selbst ganz einfach Daten, die euch interessieren, aus dem Internet automatisiert und schnell herunterladen könnt.</description>
+    </item>
+    
+    <item>
       <title>Hugo Authors</title>
       <link>/authors/hugo-authors/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
@@ -100,15 +109,6 @@
       
       <guid>/authors/cccp-authors/</guid>
       <description>Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben. Unser Arbeitsalltag besteht hauptsächlich aus der Bearbeitung und Analyse von Daten, durch die wir wichtige Einblicke in Politik, Wirtschaft und die Gesellschaft erhalten. Dieses Wissen wollen wir gerne mit euch teilen und euch in unserem einwöchigen Datascience Workshop “Hack your Future” an die Arbeit mit Daten heranführen.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/lea-kaftan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lea-kaftan/</guid>
-      <description>Mich fasziniert es, Bürgerinnen und Bürger zu fragen, was Demokratie für sie bedeutet oder die Demokratiekonzepte deutscher Parteien zu analysieren. Deswegen untersuche ich in meiner Doktorarbeit, inwiefern die Einstellung zu Demokratie das Wahlverhalten von Bürgerinnen und Bürgern beeinflusst. Um diese Frage zu beantworten, analysiere ich tagtäglich Daten aus Umfragen und Daten über Parteien. Diese Leidenschaft für die Analyse von Daten möchte ich euch näher bringen. Vor allem möchte ich euch zeigen, wie ihr selbst ganz einfach Daten, die euch interessieren, aus dem Internet automatisiert und schnell herunterladen könnt.</description>
     </item>
     
   </channel>
