@@ -148,11 +148,6 @@
   </url>
   
   <url>
-    <loc>/authors/john-doe/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/preliminary-schedule/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -195,6 +190,14 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cccp-authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lea-kaftan/</loc>
   </url>
   
   <url>
