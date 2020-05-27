@@ -23,7 +23,7 @@ theme = "hugo-theme-chunky-poster"
     weight = 0
   [[menu.main]]
     identifier = "about2"
-    name = "Anything We Want"
+    name = "Informationen für LehrerInnen und Schülerinnen "
     url = "/aww/"
     weight = 0
 
@@ -53,13 +53,7 @@ author = "authors"
     stack-overflow = "https://stackoverflow.com"
     instagram = "https://stackoverflow.com"
     github = "https://github.com"
-    weibo = "https://www.weibo.com"
-    medium = "https://medium.com"
-    pinterest = "https://pinterest.com"
-    reddit = "https://reddit.com"
-    gitlab = "https://gitlab.com"
-    mastodon = "https://mastodon.social"
-    keybase = "https://keybase.io/"
+
 
   [params.prismJS]
     enable = true
