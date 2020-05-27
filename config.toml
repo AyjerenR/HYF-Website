@@ -36,7 +36,7 @@ author = "authors"
 [params]
   author = "Hugo Authors"
   description = "Data Science Workshop."
-  homepageImage = "/images/homepage-image.jpg"
+  homepageImage = "/images/homepage-image2.jpg"
   share = true
   showLanguageSwitcher = false
 

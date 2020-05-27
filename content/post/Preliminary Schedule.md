@@ -1,9 +1,9 @@
 ---
 authors:
-- Franziska Deeg
 - Franziska Pradel
+- Franziska Deeg
 - Lea Kaftan
-date: "2019-03-05"
+date: "2019-03-08"
 description: Guide to emoji usage in Hugo
 images:
 - emoji-support.jpg
@@ -13,21 +13,21 @@ title: Preliminary Schedule - Kurs Outline
 ---
 
 
-# Einführung in R und Data Science
+# Einf?hrung in R und Data Science
 
 
 # Daten sammeln & Web Scraping 
 
-Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr größere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen könnt, ohne dafür einen Stift in die Hand nehmen zu müssen oder Copy-Paste zu drücken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
-Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer häufiger verwendet, um kostengünstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.
+Habt ihr schon einmal Daten aus dem Internet h?ndisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr gr??ere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen k?nnt, ohne daf?r einen Stift in die Hand nehmen zu m?ssen oder Copy-Paste zu dr?cken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
+Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer h?ufiger verwendet, um kosteng?nstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.
 
 
 # Daten analysieren und darstellen
 
 
-# Daten präsentieren & Shiny Apps
+# Daten pr?sentieren & Shiny Apps
 
-Wer interessante Ergebnisse und schöne Visualisierungen zu bieten hat, will diese natürlich auch präsentieren! Wir zeigen euch wie ihr, im letzten Schritt unseres Kurses, mit Hilfe von R Shiny App die Resultate eurer Arbeit präsentierbar macht. Hier verbinden wir alles zuvor gelernte, die essentiellen Basics, eure gesammelten Daten, sowie deren Analyse und Visualisierung, in einem Tool. Im Verlauf des Kurses werdet ihr ein eigenes Gruppenprojekt umsetzen und uns das finale Produkt dann am letzten Tag präsentieren. 
+Wer interessante Ergebnisse und sch?ne Visualisierungen zu bieten hat, will diese nat?rlich auch pr?sentieren! Wir zeigen euch wie ihr, im letzten Schritt unseres Kurses, mit Hilfe von R Shiny App die Resultate eurer Arbeit pr?sentierbar macht. Hier verbinden wir alles zuvor gelernte, die essentiellen Basics, eure gesammelten Daten, sowie deren Analyse und Visualisierung, in einem Tool. Im Verlauf des Kurses werdet ihr ein eigenes Gruppenprojekt umsetzen und uns das finale Produkt dann am letzten Tag pr?sentieren. 
 
 
 Emoji can be enabled in a Hugo project in a number of ways. 
