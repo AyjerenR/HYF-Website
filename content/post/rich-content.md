@@ -1,10 +1,10 @@
 ---
 authors:
-- FP
-- FD
-- LK
+- Franziska Pradel
+- Franziska Deeg
+- Lea Kaftan
 - IR
-- AR
+- Ayjeren BR
 
 date: "2020-03-10"
 description: A brief description of Hugo Shortcodes

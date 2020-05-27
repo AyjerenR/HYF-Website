@@ -13,29 +13,38 @@
     
     
     <item>
-      <title>AR</title>
-      <link>/authors/ar/</link>
+      <title></title>
+      <link>/authors/franziska-deeg/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/ar/</guid>
-      <description></description>
+      <guid>/authors/franziska-deeg/</guid>
+      <description>Mein Forschungsgebiet ist die internationale, politische Ökonomie mit regionalem Fokus auf Lateinamerika. Im Zuge meiner Dissertation beschäftige ich mich mit den Handelsbeziehungen und Migrationsströmen von Mexiko und Brasilien, sowie deren Wohlfahrtsstaaten. Wollen die Menschen in Mexiko und Brasilien mehr Absicherung durch den Staat? Wie stehen sie zu Handel und Migration? Um das herauszufinden führte ich Umfragen in den beiden Ländern durch, die nun die Datengrundlage meiner Arbeit bildet. Durch verschiedene Auslandsaufenthalte in z.</description>
     </item>
     
     <item>
-      <title>FD</title>
-      <link>/authors/fd/</link>
+      <title></title>
+      <link>/authors/franziska-pradel/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/fd/</guid>
-      <description></description>
+      <guid>/authors/franziska-pradel/</guid>
+      <description>Ich bin Doktorandin am Cologne Center for Comparative Politics an der Universität zu Köln und forsche in einem Forschungsprogramm zu der Digitalisierung der Gesellschaft. Dabei stelle ich mir insbesondere die Frage, inwiefern es Verzerrungen in politischen Informationen in Suchmaschinen und in der Kommunikation auf Online-Plattformen wie Wikipedia und Twitter gibt. In meiner Forschung analysiere ich große Datenmengen mit Hilfe von Data Science. Vor meiner Arbeit als Wissenschaftliche Mitarbeiterin, habe ich mein Abitur mit den Leistungsfächern Geschichte, Biologie und Deutsch gemacht.</description>
     </item>
     
     <item>
-      <title>FP</title>
-      <link>/authors/fp/</link>
+      <title></title>
+      <link>/authors/lea-kaftan/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/fp/</guid>
+      <guid>/authors/lea-kaftan/</guid>
+      <description>Mich fasziniert es, Bürgerinnen und Bürger zu fragen, was Demokratie für sie bedeutet oder die Demokratiekonzepte deutscher Parteien zu analysieren. Deswegen untersuche ich in meiner Doktorarbeit, inwiefern die Einstellung zu Demokratie das Wahlverhalten von Bürgerinnen und Bürgern beeinflusst. Um diese Frage zu beantworten, analysiere ich tagtäglich Daten aus Umfragen und Daten über Parteien. Diese Leidenschaft für die Analyse von Daten möchte ich euch näher bringen. Vor allem möchte ich euch zeigen, wie ihr selbst ganz einfach Daten, die euch interessieren, aus dem Internet automatisiert und schnell herunterladen könnt.</description>
+    </item>
+    
+    <item>
+      <title>Ayjeren BR</title>
+      <link>/authors/ayjeren-br/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ayjeren-br/</guid>
       <description></description>
     </item>
     
@@ -49,56 +58,11 @@
     </item>
     
     <item>
-      <title>LK</title>
-      <link>/authors/lk/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FP, FD, LK, IR, AR</title>
       <link>/authors/fp-fd-lk-ir-ar/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/fp-fd-lk-ir-ar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/franziska-deeg/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/franziska-deeg/</guid>
-      <description>Mein Forschungsgebiet ist die internationale, politische Ökonomie mit regionalem Fokus auf Lateinamerika. Im Zuge meiner Dissertation beschäftige ich mich mit den Handelsbeziehungen und Migrationsströmen von Mexiko und Brasilien, sowie deren Wohlfahrtsstaaten. Wollen die Menschen in Mexiko und Brasilien mehr Absicherung durch den Staat? Wie stehen sie zu Handel und Migration? Um das herauszufinden führte ich Umfragen in den beiden Ländern durch, die nun die Datengrundlage meiner Arbeit bildet. Durch verschiedene Auslandsaufenthalte in z.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/franziska-pradel/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/franziska-pradel/</guid>
-      <description>Ich bin Doktorandin am Cologne Center for Comparative Politics an der Universität zu Köln und forsche in einem Forschungsprogramm zu der Digitalisierung der Gesellschaft. Dabei stelle ich mir insbesondere die Frage, inwiefern es Verzerrungen in politischen Informationen in Suchmaschinen und in der Kommunikation auf Online-Plattformen wie Wikipedia und Twitter gibt. In meiner Forschung analysiere ich große Datenmengen mit Hilfe von Data Science. Vor meiner Arbeit als Wissenschaftliche Mitarbeiterin, habe ich mein Abitur mit den Leistungsfächern Geschichte, Biologie und Deutsch gemacht.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/lea-kaftan/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lea-kaftan/</guid>
-      <description>Mich fasziniert es, Bürgerinnen und Bürger zu fragen, was Demokratie für sie bedeutet oder die Demokratiekonzepte deutscher Parteien zu analysieren. Deswegen untersuche ich in meiner Doktorarbeit, inwiefern die Einstellung zu Demokratie das Wahlverhalten von Bürgerinnen und Bürgern beeinflusst. Um diese Frage zu beantworten, analysiere ich tagtäglich Daten aus Umfragen und Daten über Parteien. Diese Leidenschaft für die Analyse von Daten möchte ich euch näher bringen. Vor allem möchte ich euch zeigen, wie ihr selbst ganz einfach Daten, die euch interessieren, aus dem Internet automatisiert und schnell herunterladen könnt.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Authors</title>
-      <link>/authors/hugo-authors/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hugo-authors/</guid>
       <description></description>
     </item>
     

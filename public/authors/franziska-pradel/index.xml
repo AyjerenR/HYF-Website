@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright Â© 2008â€“2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/franziska-pradel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Information for Applicants</title>
+      <link>/post/rich-content/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rich-content/</guid>
+      <description>&lt;p&gt;Hack Your Future is a workshop designed to introduce you to the basics of data science.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>What is the Workshop About?</title>
@@ -23,12 +32,30 @@ In Hack your Future zeigen wir euch, wie ihr an interessante Daten kommt, wie ih
     </item>
     
     <item>
-      <title>Preliminary Schedule</title>
+      <title>Informationen fÃ¼r Eltern</title>
+      <link>/post/information-for-parents/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/information-for-parents/</guid>
+      <description>&lt;p&gt;Ihre Tochter interessiert sich fÃ¼r Wissenschaft, Daten, Journalismus oder Ã¤hnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und prÃ¤sentiert werden? Wir wÃ¼rden uns freuen, Ihre Tochte an Data Science heranzufÃ¼hren. Wer wir sind, stellen wir Ihnen hier (-&amp;gt; Link) vor. Sollte der Kurs an der UniversitÃ¤t zu KÃ¶ln stattfinden kÃ¶nnen, mÃ¼sste Ihre Tochter pÃ¼nktlich zu den Kursen erscheinen und Essen und Trinken oder Geld fÃ¼r das Mittagessen mitbringen. Die UniversitÃ¤t zu KÃ¶ln stellt alles weitere. Sollte der Kurs online stattfinden, informieren Sie sich bitte hier (-&amp;gt; Link) Ã¼ber die Voraussetzungen einer Teilnahme.&lt;/p&gt;
+
+&lt;p&gt;Gerne kÃ¶nnen Sie sich auch bei Fragen an uns wenden. Kontaktinformationen finden Sie hier (-&amp;gt; Link).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Schedule - Kurs Outline</title>
       <link>/post/preliminary-schedule/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/preliminary-schedule/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;einfhrung-in-r-und-data-science&#34;&gt;Einführung in R und Data Science&lt;/h1&gt;
+&lt;h1 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h1&gt;
+&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben? In diesem Kurs lernt ihr, wie ihr größere Mengen von Daten schnell, einfach und legal mithilfe von Algorithmen herunterladen könnt, ohne dafür einen Stift in die Hand nehmen zu müssen oder Copy-Paste zu drücken. Dabei lernt ihr zuerst Grundlagen von HTML kennen - der Sprache, in der die Struktur von Webseiten geschrieben wird. Mithilfe von HTML und der Open Source-Software R, die ihr bereits am ersten Kurstag kennengelernt habt, lernen wir dann, einzelne Inhalte auf Webseiten gezielt anzusprechen, herunterzuladen und in einem Datensatz abzuspeichern. 
+Web Scraping wird nicht nur in der Wissenschaft, sondern auch in Unternehmen immer häufiger verwendet, um kostengünstig, schnell und systematisch Informationen zu wichtigen Themen zu erhalten.&lt;/p&gt;
+&lt;h1 id=&#34;daten-analysieren-und-darstellen&#34;&gt;Daten analysieren und darstellen&lt;/h1&gt;
+&lt;h1 id=&#34;daten-prsentieren--shiny-apps&#34;&gt;Daten präsentieren &amp;amp; Shiny Apps&lt;/h1&gt;
+&lt;p&gt;Wer interessante Ergebnisse und schöne Visualisierungen zu bieten hat, will diese natürlich auch präsentieren! Wir zeigen euch wie ihr, im letzten Schritt unseres Kurses, mit Hilfe von R Shiny App die Resultate eurer Arbeit präsentierbar macht. Hier verbinden wir alles zuvor gelernte, die essentiellen Basics, eure gesammelten Daten, sowie deren Analyse und Visualisierung, in einem Tool. Im Verlauf des Kurses werdet ihr ein eigenes Gruppenprojekt umsetzen und uns das finale Produkt dann am letzten Tag präsentieren.&lt;/p&gt;
+&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
