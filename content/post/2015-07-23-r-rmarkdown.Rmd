@@ -1,6 +1,10 @@
 ---
 title: "Hello from the Team"
-author: "FP, FD, LK, IR, AR"
+author: 
+  - Franziska Pradel
+  - Franziska Deeg
+  - Lea Kaftan
+  - Ayjeren BR
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]

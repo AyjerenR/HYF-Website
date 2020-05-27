@@ -1,17 +1,24 @@
 ---
 authors:
-- Hugo Authors
+- Franziska Pradel
+- Franziska Deeg
+- Lea Kaftan
 date: "2019-03-08"
 description: A brief guide to setup KaTeX
 images:
 - math-typesetting.jpg
 markup: mmark
 math: true
-title: Information for Parents and Educators
+title: Informationen für Eltern
 ---
 
-The project is organized by the University of Cologne.
+
+Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden? Wir würden uns freuen, Ihre Tochte an Data Science heranzuführen. Wer wir sind, stellen wir Ihnen hier (-> Link) vor. Sollte der Kurs an der Universität zu Köln stattfinden können, müsste Ihre Tochter pünktlich zu den Kursen erscheinen und Essen und Trinken oder Geld für das Mittagessen mitbringen. Die Universität zu Köln stellt alles weitere. Sollte der Kurs online stattfinden, informieren Sie sich bitte hier (-> Link) über die Voraussetzungen einer Teilnahme.
+
+Gerne können Sie sich auch bei Fragen an uns wenden. Kontaktinformationen finden Sie hier (-> Link).
+
 <!--more-->
+
 
 In this example we will be using [KaTeX](https://katex.org/)
 
