@@ -16,8 +16,6 @@ title: Wer sind wir?
 
 
 
-# What is Hack Your Future About?
 
 Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten. 
-<!--more-->
 

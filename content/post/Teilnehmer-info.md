@@ -3,14 +3,13 @@ authors:
 - Franziska Pradel
 - Franziska Deeg
 - Lea Kaftan
-
 date: "2020-05-28"
 description: Description to be made
 images:
 - emoji-support.jpg
 tags:
 - anmeldung
--workshop
+- workshop
 title: Informationen für Teilnehmer
 ---
 
