@@ -14,10 +14,10 @@
     
     <item>
       <title>Worum es geht? &amp; Anmeldung?</title>
-      <link>/post/what-is-hack-your-future-about/</link>
+      <link>/post/worum-es-geht/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/what-is-hack-your-future-about/</guid>
+      <guid>/post/worum-es-geht/</guid>
       <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
     </item>
     
@@ -55,6 +55,15 @@
       
       <guid>/post/was-ist-data-science/</guid>
       <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Team</title>
+      <link>/post/team/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/team/</guid>
+      <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln.&lt;/p&gt;</description>
     </item>
     
   </channel>
