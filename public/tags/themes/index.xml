@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>themes on Hack Your Future</title>
+    <title>themes on    Hack Your Future   </title>
     <link>/tags/themes/</link>
-    <description>Recent content in themes on Hack Your Future</description>
+    <description>Recent content in themes on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Worum geht es?</title>
-      <link>/post/uber-data-science/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <title>Was ist Data Science?</title>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/uber-data-science/</guid>
-      <description>&lt;h4 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h4&gt;
-&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet händisch abgeschrieben?&lt;/p&gt;</description>
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;Data Science (von englisch data „Daten“ und science „Wissenschaft“, im Deutschen auch Datenwissenschaft) bezeichnet generell die Extraktion von Wissen aus Daten.&lt;/p&gt;</description>
     </item>
     
   </channel>

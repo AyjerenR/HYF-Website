@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R Markdown on Hack Your Future</title>
+    <title>R Markdown on    Hack Your Future   </title>
     <link>/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on Hack Your Future</description>
+    <description>Recent content in R Markdown on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
@@ -13,15 +13,12 @@
     
     
     <item>
-      <title>Das Programm</title>
-      <link>/post/das-programm/</link>
+      <title>Das Team</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/das-programm/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;knitr::opts_chunk$set(collapse = TRUE)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;
-&lt;p&gt;Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.&lt;/p&gt;</description>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>Here we have a small presentation of organizers, their professional background as well as research interests.</description>
     </item>
     
   </channel>
