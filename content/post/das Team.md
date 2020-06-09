@@ -6,7 +6,7 @@ authors:
 date: "2019-01-09"
 description: Team Description
 images:
-- placeholder-text.jpg
+- temas.jpg
 tags:
 - markdown
 - text

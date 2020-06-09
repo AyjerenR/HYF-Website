@@ -3,12 +3,12 @@ authors:
 - Franziska Pradel
 - Franziska Deeg
 - Lea Kaftan
-- Ayjeren BR
-
 date: "2020-05-28"
 description: description of us
 images:
-- image-gallery.jpg
+- emoji-support.jpg
+markup: mmark
+math: true
 title: Informationen für Teilnehmer
 ---
 

@@ -3,10 +3,10 @@ authors:
 - Franziska Deeg
 - Franziska Pradel
 - Lea Kaftan
-date: "2019-03-09"
+date: "2019-06-09"
 description: Lorem Ipsum Dolor Si Amet
 images:
-- placeholder-text.jpg
+- markdown-syntax.jpg
 tags:
 - markdown
 - text
