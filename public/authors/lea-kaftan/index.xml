@@ -1,67 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hack Your Future</title>
+    <title>   Hack Your Future   </title>
     <link>/authors/lea-kaftan/</link>
-    <description>Recent content on Hack Your Future</description>
+    <description>Recent content on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/lea-kaftan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Information for Applicants</title>
-      <link>/post/rich-content/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Worum geht es?</title>
+      <link>/post/worum-geht-es/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/rich-content/</guid>
-      <description>&lt;p&gt;Hack Your Future is a workshop designed to introduce you to the basics of data science.&lt;/p&gt;</description>
+      <guid>/post/worum-geht-es/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I think we need a short description here.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>What is the Workshop About?</title>
-      <link>/post/what-is-hack-your-future-about/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Informationen für Teilnehmer</title>
+      <link>/post/teilnehmer-info/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/what-is-hack-your-future-about/</guid>
-      <description>&lt;h1 id=&#34;what-is-hack-your-future-about&#34;&gt;What is Hack Your Future About?&lt;/h1&gt;
-&lt;p&gt;Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten.&lt;/p&gt;</description>
+      <guid>/post/teilnehmer-info/</guid>
+      <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert Euch als Frau? Wir freuen uns auf Euch!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Informationen für Eltern</title>
-      <link>/post/information-for-parents/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Informationen für Eltern &amp; LehrerInnen</title>
+      <link>/post/information-f%C3%BCr-eltern-lehrerinnen/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/information-for-parents/</guid>
+      <guid>/post/information-f%C3%BCr-eltern-lehrerinnen/</guid>
       <description>&lt;p&gt;Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden?&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Preliminary Schedule - Kurs Outline</title>
-      <link>/post/preliminary-schedule/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Das Programm</title>
+      <link>/post/das-programm/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/preliminary-schedule/</guid>
-      <description>&lt;h1 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h1&gt;
-&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet h?ndisch abgeschrieben?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello from the Team</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;mission-statement&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Mission Statement:&lt;/h1&gt;
-&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben. </description>
+      <guid>/post/das-programm/</guid>
+      <description>&lt;h4 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future.&lt;/h4&gt;
+&lt;p&gt;Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.&lt;/p&gt;</description>
     </item>
     
   </channel>
