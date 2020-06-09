@@ -108,6 +108,26 @@
   </url>
   
   <url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/universit%C3%A4t-zu-k%C3%B6ln/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/was-ist-data-science/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +140,16 @@
   <url>
     <loc>/impressum/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uni-koeln/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/das-team/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
