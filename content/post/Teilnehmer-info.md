@@ -3,12 +3,12 @@ authors:
 - Franziska Pradel
 - Franziska Deeg
 - Lea Kaftan
+- Ayjeren BR
+
 date: "2020-05-28"
-description: A brief description of Hugo Shortcodes
+description: description of us
 images:
-- rich-content.jpg
-markup: mmark
-math: true
+- image-gallery.jpg
 title: Informationen für Teilnehmer
 ---
 
