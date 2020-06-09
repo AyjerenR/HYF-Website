@@ -1,6 +1,7 @@
 baseURL = "https://example.com"
-title = "Hack Your Future"
+title = "   Hack Your Future   "
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+#smth like this in the copyright: © Alison Hill 2020 · Made with , , the  blogdown package, and the Academic theme for Hugo.
 paginate = 2
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -22,9 +23,9 @@ theme = "hugo-theme-chunky-poster"
     url = "/about/"
     weight = 0
   [[menu.main]]
-    identifier = "about2"
-    name = "Informationen für LehrerInnen und Schülerinnen "
-    url = "/aww/"
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/impressum/"
     weight = 0
 
 [taxonomies]
@@ -35,7 +36,7 @@ author = "authors"
 
 [params]
   author = "Hugo Authors"
-  description = "Data Science Workshop."
+  #description = "Data Science Workshop."
   homepageImage = "/images/homepage-image2.jpg"
   share = true
   showLanguageSwitcher = false
@@ -46,11 +47,9 @@ author = "authors"
 
   [params.social]
     rss = false
-    email = "example@example.com"
-    twitter = "https://twitter.com"
-    linkedin = "https://linkedin.com"
-    instagram = "https://stackoverflow.com"
-    github = "https://github.com"
+    email = "cccp-hackfuture@uni-koeln.de"
+    twitter = "https://twitter.com/CompPolCologne"
+    github = "https://github.com/AyjerenR/HYF-Website/settings"
 
 
   [params.prismJS]
