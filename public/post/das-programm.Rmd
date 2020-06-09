@@ -1,5 +1,5 @@
 ---
-title: "Das Program"
+title: "Das Programm"
 authors: 
 - Franziska Pradel
 - Franziska Deeg
@@ -52,12 +52,12 @@ Visualisierung von Informationen
 Gruppenarbeit: Datensätze anhand einer Fragestellung untersuchen 
 
 
-## Thema: Wie präsentieren wir unsere Ergebnisse?
+#### Thema: Wie präsentieren wir unsere Ergebnisse?
 Donnerstag, 20.08.2020  
 09:00-16:30 Uhr  
 
 
-## Thema: Präsentation der Ergebnisse 
+#### Thema: Präsentation der Ergebnisse 
 Freitag, 21.08.2020  
 09:00-16:30 Uhr  
 

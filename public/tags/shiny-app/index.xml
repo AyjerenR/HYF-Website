@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on    Hack Your Future   </title>
-    <link>/series/</link>
-    <description>Recent content in Series on    Hack Your Future   </description>
+    <title>Shiny App on    Hack Your Future   </title>
+    <link>/tags/shiny-app/</link>
+    <description>Recent content in Shiny App on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/shiny-app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Themes Guide</title>
-      <link>/series/themes-guide/</link>
+      <title>Worum geht es?</title>
+      <link>/post/worum-geht-es/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/series/themes-guide/</guid>
-      <description></description>
+      <guid>/post/worum-geht-es/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I think we need a short description here.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
