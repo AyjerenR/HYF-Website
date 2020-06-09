@@ -68,13 +68,18 @@
   </url>
   
   <url>
-    <loc>/post/information-for-parents/</loc>
+    <loc>/tags/data-science/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/programm/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>/post/eltern-lehrer-info/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uni-koeln/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,17 +93,17 @@
   </url>
   
   <url>
+    <loc>/post/programm/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cool/</loc>
-    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,18 +138,23 @@
   </url>
   
   <url>
-    <loc>/post/team/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/team/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/uni-koeln/</loc>
+    <loc>/post/team/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/danke/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bedankungen/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

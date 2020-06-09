@@ -6,14 +6,14 @@
     <description>Recent content on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/jeren-rzj/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Worum es geht? &amp; Anmeldung?</title>
+      <title>Worum es geht &amp; Anmeldung</title>
       <link>/post/worum-es-geht/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -31,21 +31,21 @@
     </item>
     
     <item>
-      <title>Information for Parents and Educators</title>
-      <link>/post/information-for-parents/</link>
+      <title>Informationen für Eltern &amp; LehrerInnen</title>
+      <link>/post/eltern-lehrer-info/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/information-for-parents/</guid>
-      <description>&lt;p&gt;Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden?&lt;/p&gt;</description>
+      <guid>/post/eltern-lehrer-info/</guid>
+      <description>&lt;p&gt;Hack Your Future richtet sich an alle interessierten Schülerinnen der Oberstufe, die sich für Journalismus, Wissenschaft oder ganz allgemein für die Beantwortung spannender Fragen mithilfe von Daten begeistern können.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Das Programm</title>
+      <title>Vorläufiges Programm</title>
       <link>/post/programm/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/programm/</guid>
-      <description>&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;</description>
+      <description>&lt;p&gt;Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. Eine vollständige und finale Programmübersicht senden wir euch vor Beginn des Workshops zu.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,12 +58,21 @@
     </item>
     
     <item>
-      <title>Das Team</title>
+      <title>Unser Team</title>
       <link>/post/team/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/team/</guid>
       <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finanzierung &amp; Unterstuetzung</title>
+      <link>/post/bedankungen/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bedankungen/</guid>
+      <description>&lt;p&gt;Dankeschön!&lt;/p&gt;</description>
     </item>
     
   </channel>
