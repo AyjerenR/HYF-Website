@@ -36,7 +36,7 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
+  author = "Hack Your Future Authors"
   description = "Köln, 17. - 21. August 2020"
   homepageImage = "/images/homepage-image2.jpg"
   share = true
