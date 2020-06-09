@@ -20,5 +20,5 @@ Ihr braucht keinerlei Vorwissen und könnt gerne schlecht (oder gut) in Mathe, S
 
 Hack Your Future findet außerdem online statt. Dafür braucht Ihr nur einen Computer, einen Laptop oder ein Tablet mit Internetzugang. Zu Beginn des Kurses wird die Software Zoom installiert, damit Ihr auch mit anderen Teilnehmerinnen zusammenarbeiten könnt. Es kommen dabei keinerlei Kosten auf Euch zu.
 
-Wenn Ihr Fragen zum Kurs habt oder Schwierigkeiten habt, an ein Internet-fähiges Gerät zu kommen, aber trotzdem gerne teilnehmen möchtet, könnt Ihr Euch gerne bei [uns](https://brave-borg-cf3968.netlify.app/about/) melden.
+Wenn Ihr Fragen zum Kurs habt oder Schwierigkeiten habt, an ein Internet-fähiges Gerät zu kommen, aber trotzdem gerne teilnehmen möchtet, könnt Ihr Euch gerne bei uns melden.
 
