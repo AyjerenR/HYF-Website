@@ -11,7 +11,7 @@ tags:
 - markdown
 - text
 - Uni Koeln
-title: Das Team
+title: Wer sind wir?
 ---
 
 
