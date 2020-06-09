@@ -7,65 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/franziska-deeg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Worum es geht &amp; Anmeldung?</title>
-      <link>/post/worum-geht-es/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Worum es geht? &amp; Anmeldung?</title>
+      <link>/post/what-is-hack-your-future-about/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/worum-geht-es/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The text is going to be changed.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/post/what-is-hack-your-future-about/</guid>
+      <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Informationen für Teilnehmer</title>
-      <link>/post/informationen-f%C3%BCr-teilnehmer/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <link>/post/teilnehmer-info/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/informationen-f%C3%BCr-teilnehmer/</guid>
-      <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert Euch als Frau? Wir freuen uns auf Euch!&lt;/p&gt;</description>
+      <guid>/post/teilnehmer-info/</guid>
+      <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid älter als 16 Jahre? Wir freuen uns auf euch!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Informationen für Eltern &amp; LehrerInnen</title>
-      <link>/post/information-f%C3%BCr-eltern-lehrerinnen/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <title>Information for Parents and Educators</title>
+      <link>/post/information-for-parents/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/information-f%C3%BCr-eltern-lehrerinnen/</guid>
+      <guid>/post/information-for-parents/</guid>
       <description>&lt;p&gt;Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Das Programm</title>
-      <link>/post/das-programm/</link>
+      <link>/post/programm/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/das-programm/</guid>
-      <description>&lt;h4 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future.&lt;/h4&gt;
-&lt;p&gt;Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.&lt;/p&gt;</description>
+      <guid>/post/programm/</guid>
+      <description>&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;</description>
     </item>
     
     <item>
       <title>Was ist Data Science?</title>
       <link>/post/was-ist-data-science/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/was-ist-data-science/</guid>
-      <description>&lt;h1 id=&#34;what-is-hack-your-future-about&#34;&gt;What is Hack Your Future About?&lt;/h1&gt;
-&lt;p&gt;Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Wer sind wir?</title>
-      <link>/post/das-team/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/das-team/</guid>
-      <description>Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten.</description>
+      <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
     </item>
     
   </channel>
