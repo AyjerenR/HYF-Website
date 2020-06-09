@@ -3,7 +3,6 @@ authors:
 - Franziska Pradel
 - Franziska Deeg
 - Lea Kaftan
-- Ayjeren BR
 
 date: "2020-05-25"
 description: Description to be made
@@ -17,7 +16,7 @@ title: Das Programm
 
 
 
-#### Vorläufiges Programm für Hack Your Future.  
+#### Vorläufiges Programm für Hack Your Future.
 
 
 Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.

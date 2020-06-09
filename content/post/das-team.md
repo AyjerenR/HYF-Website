@@ -1,7 +1,7 @@
 ---
-authors:
-- Franziska Deeg
+authors: 
 - Franziska Pradel
+- Franziska Deeg
 - Lea Kaftan
 date: "2019-01-09"
 description: Team Description
@@ -11,8 +11,10 @@ tags:
 - markdown
 - text
 - Uni Koeln
-title: Wer sind wir?
+title: Das Team
 ---
+
+
 
 # What is Hack Your Future About?
 
