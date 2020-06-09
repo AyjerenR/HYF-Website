@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Worum es geht &amp; Anmeldung?</title>
-      <link>/post/worum-geht-es/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Was ist Data Science?</title>
+      <link>/post/was-ist-data-science/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/worum-geht-es/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The text is going to be changed.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/post/was-ist-data-science/</guid>
+      <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
     </item>
     
   </channel>
