@@ -1,18 +1,12 @@
 ---
-title: "Worum es geht & Anmeldung?"
-date: '2020-06-03'
-description: Sample article showcasing basic Markdown syntax and formatting for HTML
-  elements.
-images: markdown-syntax1.jpg
-tags:
-- R
-- Shiny App
-- Web Scraping
-- Vizualisierung
 authors:
 - Franziska Pradel
 - Franziska Deeg
 - Lea Kaftan
+date: '2020-06-03'
+description: sample article
+images: markdown-syntax1.jpg
+title: Worum es geht & Anmeldung?
 ---
 
 **The text is going to be changed.** 
