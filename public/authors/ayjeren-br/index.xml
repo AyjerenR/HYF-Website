@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ayjeren BR on Hack Your Future</title>
+    <title>Ayjeren BR on    Hack Your Future   </title>
     <link>/authors/ayjeren-br/</link>
-    <description>Recent content in Ayjeren BR on Hack Your Future</description>
+    <description>Recent content in Ayjeren BR on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/ayjeren-br/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Information for Applicants</title>
-      <link>/post/rich-content/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Worum geht es?</title>
+      <link>/post/worum-geht-es/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/rich-content/</guid>
-      <description>&lt;p&gt;Hack Your Future is a workshop designed to introduce you to the basics of data science.&lt;/p&gt;</description>
+      <guid>/post/worum-geht-es/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I think we need a short description here.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Informationen für Teilnehmer</title>
+      <link>/post/teilnehmer-info/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/teilnehmer-info/</guid>
+      <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert Euch als Frau? Wir freuen uns auf Euch!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Programm</title>
+      <link>/post/das-programm/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/das-programm/</guid>
+      <description>&lt;h4 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future.&lt;/h4&gt;
+&lt;p&gt;Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.&lt;/p&gt;</description>
     </item>
     
   </channel>
