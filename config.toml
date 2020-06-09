@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "   Hack Your Future   "
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020 - 2021, Universitaet zu Köln & Organizers; all rights reserved."
 #smth like this in the copyright: © Alison Hill 2020 · Made with , , the  blogdown package, and the Academic theme for Hugo.
 paginate = 2
 languageCode = "en"

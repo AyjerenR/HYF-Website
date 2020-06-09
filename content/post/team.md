@@ -11,7 +11,7 @@ images:
 tags:
 - team
 - uni Koeln
-title: Das Team
+title: Unser Team
 ---
 
 Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln.

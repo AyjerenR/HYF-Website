@@ -11,13 +11,11 @@ images:
 tags:
 - program
 - R
-title: Das Programm
+title: Vorläufiges Programm
 ---
 
-## Vorläufiges Programm für Hack Your Future
+Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. Eine vollständige und finale Programmübersicht senden wir euch vor Beginn des Workshops zu. 
 <!--more-->
-Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. Eine vollständige und finale Programmübersicht senden wir euch natürlich vor Beginn des Workshops zu. 
-
 
 #### Thema: Einführung
 Montag, 17.08.2020  

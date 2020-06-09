@@ -11,8 +11,8 @@ images:
 tags:
 - workshop
 - anmeldung formular
-title: Worum es geht?
-        & Anmeldung?
+title: Worum es geht
+        & Anmeldung
 ---
 
 
