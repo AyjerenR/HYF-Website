@@ -6,7 +6,7 @@
     <description>Recent content in Tags on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -49,6 +49,24 @@
     </item>
     
     <item>
+      <title>data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uni Koeln</title>
+      <link>/tags/uni-koeln/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/uni-koeln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>program</title>
       <link>/tags/program/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
@@ -76,15 +94,6 @@
     </item>
     
     <item>
-      <title>data science</title>
-      <link>/tags/data-science/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zukunftsprache</title>
       <link>/tags/zukunftsprache/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
@@ -103,11 +112,11 @@
     </item>
     
     <item>
-      <title>uni Koeln</title>
-      <link>/tags/uni-koeln/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <title>Danke!</title>
+      <link>/tags/danke/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uni-koeln/</guid>
+      <guid>/tags/danke/</guid>
       <description></description>
     </item>
     

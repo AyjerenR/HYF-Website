@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danke! on    Hack Your Future   </title>
+    <link>/tags/danke/</link>
+    <description>Recent content in Danke! on    Hack Your Future   </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/danke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finanzierung &amp; Unterstuetzung</title>
+      <link>/post/bedankungen/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bedankungen/</guid>
+      <description>&lt;p&gt;Dankeschön!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
