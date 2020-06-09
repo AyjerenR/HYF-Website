@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji-support on Hack Your Future</title>
+    <title>emoji-support on    Hack Your Future   </title>
     <link>/tags/emoji-support/</link>
-    <description>Recent content in emoji-support on Hack Your Future</description>
+    <description>Recent content in emoji-support on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Preliminary Schedule - Kurs Outline</title>
-      <link>/post/preliminary-schedule/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Das Programm</title>
+      <link>/post/programm/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/preliminary-schedule/</guid>
-      <description>&lt;h1 id=&#34;daten-sammeln--web-scraping&#34;&gt;Daten sammeln &amp;amp; Web Scraping&lt;/h1&gt;
-&lt;p&gt;Habt ihr schon einmal Daten aus dem Internet h?ndisch abgeschrieben?&lt;/p&gt;</description>
+      <guid>/post/programm/</guid>
+      <description>&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;
+&lt;p&gt;Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. Eine vollständige und finale Programmübersicht senden wir euch natürlich vor Beginn des Workshops zu.&lt;/p&gt;</description>
     </item>
     
   </channel>

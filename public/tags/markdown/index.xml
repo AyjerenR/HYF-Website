@@ -7,28 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Was ist Data Science?</title>
-      <link>/post/was-ist-data-science/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/was-ist-data-science/</guid>
-      <description>&lt;h1 id=&#34;what-is-hack-your-future-about&#34;&gt;What is Hack Your Future About?&lt;/h1&gt;
-&lt;p&gt;Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Wer sind wir?</title>
-      <link>/post/das-team/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/das-team/</guid>
-      <description>Daten werden überall gebraucht - im Wetterbericht, in den neuesten Nachrichten zu Politik und Wirtschaft, in Unternehmen und natürlich ganz besonders an Universitäten.</description>
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;Data Science (von englisch data „Daten“ und science „Wissenschaft“, im Deutschen auch Datenwissenschaft) bezeichnet generell die Extraktion von Wissen aus Daten.&lt;/p&gt;</description>
     </item>
     
   </channel>

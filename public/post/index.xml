@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on    Hack Your Future   </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on    Hack Your Future   </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Worum es geht? &amp; Anmeldung?</title>
+      <link>/post/what-is-hack-your-future-about/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-is-hack-your-future-about/</guid>
+      <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Informationen für Teilnehmer</title>
+      <link>/post/teilnehmer-info/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/teilnehmer-info/</guid>
+      <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid älter als 16 Jahre? Wir freuen uns auf euch!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Information for Parents and Educators</title>
+      <link>/post/information-for-parents/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/information-for-parents/</guid>
+      <description>&lt;p&gt;Ihre Tochter interessiert sich für Wissenschaft, Daten, Journalismus oder ähnliche Bereiche, in denen Daten immer wieder gesammelt, ausgewertet und präsentiert werden?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Programm</title>
+      <link>/post/programm/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/programm/</guid>
+      <description>&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Was ist Data Science?</title>
+      <link>/post/was-ist-data-science/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/was-ist-data-science/</guid>
+      <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Team</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>Here we have a small presentation of organizers, their professional background as well as research interests.</description>
+    </item>
+    
+  </channel>
+</rss>
