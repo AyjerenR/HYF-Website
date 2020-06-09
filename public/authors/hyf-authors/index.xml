@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>   Hack Your Future   </title>
-    <link>/authors/cccp-authors/</link>
+    <link>/authors/hyf-authors/</link>
     <description>Recent content on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="/authors/cccp-authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/hyf-authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
