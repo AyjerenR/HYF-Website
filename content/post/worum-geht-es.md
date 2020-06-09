@@ -12,7 +12,7 @@ date: "2020-06-03"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
 images:
-- markdown-syntax.jpg
+- markdown-syntax1.jpg
 series:
 - Themes Guide
 tags:
@@ -20,10 +20,10 @@ tags:
 - Shiny App
 - Web Scraping
 - Vizualisierung
-title: Worum geht es?
+title: Worum es geht & Anmeldung?
 ---
 
-**I think we need a short description here.** 
+**The text is going to be changed.** 
 
 <!--more-->
 

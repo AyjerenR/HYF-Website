@@ -18,9 +18,9 @@ theme = "hugo-theme-chunky-poster"
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "datenschutz"
+    name = "Datenschutz"
+    url = "/datenschutz/"
     weight = 0
   [[menu.main]]
     identifier = "impressum"
@@ -36,7 +36,7 @@ author = "authors"
 
 [params]
   author = "Hugo Authors"
-  #description = "Data Science Workshop."
+  description = "Köln, 17. - 21. August 2020"
   homepageImage = "/images/homepage-image2.jpg"
   share = true
   showLanguageSwitcher = false
