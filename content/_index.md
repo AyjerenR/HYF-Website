@@ -1,4 +1,4 @@
 ---
-author: Hugo Authors
+author: Hack Your Future Authors
 ---
 
