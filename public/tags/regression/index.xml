@@ -13,17 +13,15 @@
     
     
     <item>
-      <title>Hello from the Team</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <title>Das Programm</title>
+      <link>/post/das-programm/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;mission-statement&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Mission Statement:&lt;/h1&gt;
-&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben. </description>
+      <guid>/post/das-programm/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-{r&#34;&gt;knitr::opts_chunk$set(collapse = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;vorläufiges-programm-für-hack-your-future&#34;&gt;Vorläufiges Programm für Hack Your Future&lt;/h2&gt;
+&lt;p&gt;Das Programm wird zurzeit von uns überarbeitet. Bis zu Beginn des Workshops kann es sein, dass wir einige Kleinigkeiten abändern.&lt;/p&gt;</description>
     </item>
     
   </channel>
