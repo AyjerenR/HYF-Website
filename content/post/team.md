@@ -53,4 +53,6 @@ Nachdem ich meinen Bachelor an der Friedrich-Alexander-Universität Erlangen-Nü
 
 Weitere Informationen über mich und meine Arbeit findet ihr auf der [Homepage der Uni Köln](https://cccp.uni-koeln.de/de/team/doctoral-researchers/franziska-deeg).
 
-## [Jeren Rozyjumayeva B.](https://www.linkedin.com/in/ayjeren-b-5275348b/)
+## [Jeren R.B.](https://www.linkedin.com/in/ayjeren-b-5275348b/)
+
+Ich bin Wissenschaflitche Mitarbeiterin an der Uni Köln. Ich interessiere mich für R und Compuational Social Science.
