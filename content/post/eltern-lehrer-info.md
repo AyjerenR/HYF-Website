@@ -25,6 +25,6 @@ Hack Your Future findet von Montag, den 17. August 2020 bis Freitag, den 21. Aug
 
 Zu Beginn und für die Zeit des Kurses müssen die Schülerinnen nur die Software Zoom auf dem Gerät installieren, um an Gruppenarbeiten und Fragerunden teilnehmen zu können. Dabei entstehen für die Teilnehmerinnen keinerlei Kosten. Außer Zoom muss auf den Geräten keinerlei Software installiert werden. Für die Zeit des Workshops sollten die Schülerinnen außerdem vom Unterricht befreit werden, was vor Beginn des Workshops mit den zuständigen LehrerInnen abzusprechen ist.
 
-Sollten Sie Fragen oder Schwierigkeiten haben, ein internetfähiges Gerät bereitzustellen, wenden Sie sich gerne jederzeit an [uns](/post/team/). 
+Sollten Sie Fragen oder Schwierigkeiten haben, ein internetfähiges Gerät bereitzustellen, wenden Sie sich gerne jederzeit an [uns](/post/uber-das-team/). 
 
 [Hier](/post/worum-es-geht/) finden Sie weitere Informationen zu dem Kurs und der Anmeldung.
