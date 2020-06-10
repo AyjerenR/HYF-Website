@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danke! on    Hack Your Future   </title>
-    <link>https://example.com/tags/danke/</link>
+    <link>/tags/danke/</link>
     <description>Recent content in Danke! on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/danke/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/danke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finanzierung &amp; Unterstützung</title>
-      <link>https://example.com/post/bedankungen/</link>
+      <link>/post/bedankungen/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bedankungen/</guid>
+      <guid>/post/bedankungen/</guid>
       <description>&lt;p&gt;Dankeschön!&lt;/p&gt;</description>
     </item>
     
