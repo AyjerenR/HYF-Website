@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.hyf-koeln.org/"
 title = "   Hack Your Future   "
 copyright = "Copyright © 2020 - 2021, Universitaet zu Köln & Organizers; all rights reserved."
 #smth like this in the copyright: © Alison Hill 2020 · Made with , , the  blogdown package, and the Academic theme for Hugo.
