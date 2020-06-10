@@ -2,6 +2,7 @@
 images:
 - franziska-deeg.jpg
 name: Franziska Deeg
+twitter: FranziskaDeeg
 ---
 
 Mein Forschungsgebiet ist die internationale, politische Ökonomie mit regionalem Fokus auf Lateinamerika. Im Zuge meiner Dissertation beschäftige ich mich mit den Handelsbeziehungen und Migrationsströmen von Mexiko und Brasilien, sowie deren Wohlfahrtsstaaten. Wollen die Menschen in Mexiko und Brasilien mehr Absicherung durch den Staat? Wie stehen sie zu Handel und Migration? Um das herauszufinden führte ich Umfragen in den beiden Ländern durch, die nun die Datengrundlage meiner Arbeit bilden. 
