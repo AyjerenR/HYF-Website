@@ -3,190 +3,190 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/authors/franziska-deeg/</loc>
+    <loc>/authors/franziska-deeg/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/franziska-pradel/</loc>
+    <loc>/authors/franziska-pradel/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/lea-kaftan/</loc>
+    <loc>/authors/lea-kaftan/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/anmeldung/</loc>
+    <loc>/tags/anmeldung/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/anmeldung-formular/</loc>
+    <loc>/tags/anmeldung-formular/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/jeren-r.b./</loc>
+    <loc>/authors/jeren-r.b./</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/workshop/</loc>
+    <loc>/tags/workshop/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/worum-es-geht/</loc>
+    <loc>/post/worum-es-geht/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/teilnehmer-info/</loc>
+    <loc>/post/teilnehmer-info/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/schritte/</loc>
+    <loc>/tags/schritte/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/data-science/</loc>
+    <loc>/tags/data-science/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/eltern-lehrer-info/</loc>
+    <loc>/post/eltern-lehrer-info/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/uni-koeln/</loc>
+    <loc>/tags/uni-koeln/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/karriere/</loc>
+    <loc>/tags/karriere/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/program/</loc>
+    <loc>/tags/program/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/programm/</loc>
+    <loc>/post/programm/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/cool/</loc>
+    <loc>/tags/cool/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/was-ist-data-science/</loc>
+    <loc>/post/was-ist-data-science/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/zukunftsprache/</loc>
+    <loc>/tags/zukunftsprache/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/team/</loc>
+    <loc>/tags/team/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/team/</loc>
+    <loc>/post/team/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/danke/</loc>
+    <loc>/tags/danke/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/bedankungen/</loc>
+    <loc>/post/bedankungen/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/datenschutz/</loc>
+    <loc>/datenschutz/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/impressum/</loc>
+    <loc>/impressum/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/authors/hyf-authors/</loc>
+    <loc>/authors/hyf-authors/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/authors/jeren-rzj/</loc>
+    <loc>/authors/jeren-rzj/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>/tags/index/</loc>
   </url>
   
 </urlset>

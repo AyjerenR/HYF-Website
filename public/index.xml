@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>   Hack Your Future   </title>
-    <link>https://example.com/</link>
+    <link>/</link>
     <description>Recent content on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Worum es geht &amp; Anmeldung</title>
-      <link>https://example.com/post/worum-es-geht/</link>
+      <link>/post/worum-es-geht/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/worum-es-geht/</guid>
+      <guid>/post/worum-es-geht/</guid>
       <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Informationen für Teilnehmerinnen</title>
-      <link>https://example.com/post/teilnehmer-info/</link>
+      <link>/post/teilnehmer-info/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/teilnehmer-info/</guid>
+      <guid>/post/teilnehmer-info/</guid>
       <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid älter als 16 Jahre? Wir freuen uns auf euch!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Informationen für Eltern &amp; LehrerInnen</title>
-      <link>https://example.com/post/eltern-lehrer-info/</link>
+      <link>/post/eltern-lehrer-info/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/eltern-lehrer-info/</guid>
+      <guid>/post/eltern-lehrer-info/</guid>
       <description>&lt;p&gt;Hack Your Future richtet sich an alle interessierten Schülerinnen der Oberstufe, die sich für Journalismus, Wissenschaft oder ganz allgemein für die Beantwortung spannender Fragen mithilfe von Daten begeistern können.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Vorläufiges Programm für Hack Your Future</title>
-      <link>https://example.com/post/programm/</link>
+      <link>/post/programm/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/programm/</guid>
+      <guid>/post/programm/</guid>
       <description>&lt;p&gt;Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Was ist Data Science?</title>
-      <link>https://example.com/post/was-ist-data-science/</link>
+      <link>/post/was-ist-data-science/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/was-ist-data-science/</guid>
+      <guid>/post/was-ist-data-science/</guid>
       <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
     </item>
     
     <item>
       <title>Unser Team</title>
-      <link>https://example.com/post/team/</link>
+      <link>/post/team/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/team/</guid>
+      <guid>/post/team/</guid>
       <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Finanzierung &amp; Unterstützung</title>
-      <link>https://example.com/post/bedankungen/</link>
+      <link>/post/bedankungen/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bedankungen/</guid>
+      <guid>/post/bedankungen/</guid>
       <description>&lt;p&gt;Dankeschön!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Datenschutz</title>
-      <link>https://example.com/datenschutz/</link>
+      <link>/datenschutz/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/datenschutz/</guid>
+      <guid>/datenschutz/</guid>
       <description>Die folgenden Hinweise fassen Ihre Datenschutzrechte im Zusammenhang mit der Nutzung der Website und der Teilnahme an dem Kurs zusammen.
 Schutz Ihrer Daten bei Nutzung der Homepage Wir sammeln keinerlei Daten über die Nutzer dieser Homepage. Unter anderem, aber nicht ausschließlich, verarbeiten wir keine Cookies, führen keine Classic Analyse durch, sammeln keine personenbezogenen Daten und auch keine IP-Adressen.
 Schutz und Verarbeitung Ihrer Daten bei der Teilnahme am Workshop Personenbezogene Daten, die Sie uns für die Anmeldung zum Workshop zuschicken, werden DSGVO-konform verarbeitet und gespeichert.</description>
@@ -88,10 +88,10 @@ Schutz und Verarbeitung Ihrer Daten bei der Teilnahme am Workshop Personenbezoge
     
     <item>
       <title>Impressum</title>
-      <link>https://example.com/impressum/</link>
+      <link>/impressum/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/impressum/</guid>
+      <guid>/impressum/</guid>
       <description>&lt;p&gt;Franziska Deeg, Lea Kaftan, Franziska Pradel, Ayjeren Rozyjumayeva&lt;/p&gt;</description>
     </item>
     
