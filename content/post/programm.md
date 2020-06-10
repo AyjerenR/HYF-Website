@@ -3,7 +3,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Franziska Deeg
-- Jeren R.B.
+- Jeren Rzj
 date: "2020-05-25"
 description: Guide to emoji usage in Hugo
 images:

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>workshop on    Hack Your Future   </title>
-    <link>/tags/workshop/</link>
+    <link>https://example.com/tags/workshop/</link>
     <description>Recent content in workshop on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Worum es geht &amp; Anmeldung</title>
-      <link>/post/worum-es-geht/</link>
+      <link>https://example.com/post/worum-es-geht/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/worum-es-geht/</guid>
+      <guid>https://example.com/post/worum-es-geht/</guid>
       <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
     </item>
     

@@ -5,7 +5,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Franziska Deeg
-- Jeren R.B.
+- Jeren Rzj
 categories:
 - themes
 - syntax
