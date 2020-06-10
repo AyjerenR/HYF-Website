@@ -15,56 +15,58 @@ tags:
 title: Vorläufiges Programm für Hack Your Future
 ---
 
-Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. Eine vollständige und finale Programmübersicht senden wir euch natürlich vor Beginn des Workshops zu. 
+Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen. 
 <!--more-->
+Eine vollständige und finale Programmübersicht senden wir euch natürlich vor Beginn des Workshops zu. 
+
 
 #### Thema: Einführung
-Montag, 17.08.2020
-09:00 Uhr - 16:30 Uhr
+Montag, 17.08.2020  
+09:00 Uhr - 16:30 Uhr  
 
-Begrüßung und Kennenlernen
-Vorträge von Data Scientists
-Einteilung der Gruppen
-Einführung in die Programmiersprache R
+Begrüßung und Kennenlernen  
+Vorträge von Data Scientists  
+Einteilung der Gruppen  
+Einführung in die Programmiersprache R  
 
 
 #### Thema: Wie kommen wir an Daten?
-Dienstag, 18.08.2020
-09:00 - 16:30 Uhr
+Dienstag, 18.08.2020  
+09:00 - 16:30 Uhr  
 
-Quellen für Daten und Datensätze
-Grundlagen von HTML, XML und xpath
-Einführung in Web Scraping mit R
+Quellen für Daten und Datensätze  
+Grundlagen von HTML, XML und xpath  
+Einführung in Web Scraping mit R  
 
-Gruppenarbeit: Eigene Datensätze erstellen
+Gruppenarbeit: Eigene Datensätze erstellen  
 
 
 #### Thema: Wie werten wir Daten aus?
-Mittwoch, 19.08.2020
-09:00-16:30 Uhr
+Mittwoch, 19.08.2020  
+09:00-16:30 Uhr  
 
-Einführung in die Datenanalyse
-Analyse von Social Media Inhalten
-Visualisierung von Informationen
+Einführung in die Datenanalyse  
+Analyse von Social Media Inhalten  
+Visualisierung von Informationen  
 
-Gruppenarbeit: Datensätze anhand einer Fragestellung untersuchen 
+Gruppenarbeit: Datensätze anhand einer Fragestellung untersuchen   
 
 
 #### Thema: Wie präsentieren wir unsere Ergebnisse?
-Donnerstag, 20.08.2020
-09:00-16:30 Uhr
+Donnerstag, 20.08.2020  
+09:00-16:30 Uhr  
 
-Zusammenführung des bisher Gelernten mit Präsentationsplattform 
-Einführung in das Package Shiny von R zur Präsentation von Daten
-Erstellen einer Plattform zur Datenpräsentation 
+Zusammenführung des bisher Gelernten mit Präsentationsplattform   
+Einführung in das Package Shiny von R zur Präsentation von Daten  
+Erstellen einer Plattform zur Datenpräsentation   
 
-Gruppenarbeit: Eigene Datenvisualisierungen auf Plattform umsetzen
+Gruppenarbeit: Eigene Datenvisualisierungen auf Plattform umsetzen  
 
 #### Thema: Präsentation der Ergebnisse 
-Freitag, 21.08.2020
-09:00-16:30 Uhr
+Freitag, 21.08.2020  
+09:00-16:30 Uhr  
 
-Präsentation der Gruppenarbeiten in Kleingruppen
-Wahl und Präsentation der jeweils besten Gruppenarbeit im Plenum
-Vorträge von Data Scientists
-Abschlussgespräch
+Präsentation der Gruppenarbeiten in Kleingruppen  
+Wahl und Präsentation der jeweils besten Gruppenarbeit im Plenum  
+Vorträge von Data Scientists  
+Abschlussgespräch  

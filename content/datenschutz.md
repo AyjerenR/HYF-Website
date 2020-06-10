@@ -37,8 +37,8 @@ Verantwortlich für den Datenschutz sind:
 
 Franziska Deeg, Lea Kaftan, Franziska Pradel, Ayjeren Rozyjumayeva
 
-[Cologne Center for Comparative Politics](cccp.uni-koeln.de)   
-[Universität zu Köln](uni-koeln.de)  
+[Cologne Center for Comparative Politics](https://www.cccp.uni-koeln.de/)   
+[Universität zu Köln](https://www.uni-koeln.de/)  
 
 Herbert-Lewin-Straße 2  
 50931 Köln  
@@ -83,7 +83,7 @@ Im Rahmen des Kurses kann es zur Erhebung von weiteren anonymisierten Daten übe
 
 Anonyme Daten aus der Evaluation und den Umfragen können unter Umständen länger aufbewahrt werden, jedoch maximal bis zu fünf Jahre nach Abschluss der jeweiligen Evaluation oder Umfrage, sofern nicht darüber hinausgehende, gesetzliche Aufbewahrungspflichten bestehen. Nach Teilnahme an den anonymen Umfragen und der Evaluation können wir Ihre Daten nicht mehr zurückverfolgen und daher auch nicht mehr vor Ablauf der Frist löschen.
 
-Für die Umfragen verwenden wir aller Voraussicht nach die Software mentimeter. Mentimeter ist ein schwedisches Unternehmen und somit, ebenso wie wir, an die DSGVO gebunden. Die Software wird über den Browser benutzt. Eine Anmeldung ist nicht notwendig. Datenschutzrechtliche Informationen zu mentimeter können Sie der Homepage von [mentimeter](mentimeter.com) entnehmen. Kosten entstehen dabei nicht.
+Für die Umfragen verwenden wir aller Voraussicht nach die Software mentimeter. Mentimeter ist ein schwedisches Unternehmen und somit, ebenso wie wir, an die DSGVO gebunden. Die Software wird über den Browser benutzt. Eine Anmeldung ist nicht notwendig. Datenschutzrechtliche Informationen zu mentimeter können Sie der Homepage von [mentimeter](https://www.mentimeter.com/) entnehmen. Kosten entstehen dabei nicht.
 
 Für die Durchführung des Online-Kurses verwenden wir die Software Zoom. Daraus entstehen eventuell weitere datenschutzrechtliche Ansprüche, die Sie der [Homepage von Zoom](https://zoom.us) entnehmen können. Kosten entstehen dabei nicht.
 

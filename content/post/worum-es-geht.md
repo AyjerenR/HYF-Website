@@ -15,7 +15,6 @@ title: Worum es geht
         & Anmeldung
 ---
 
-## Worum es geht?
 
 Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt. 
 <!--more-->

@@ -12,8 +12,8 @@ title: Impressum
 
 Franziska Deeg, Lea Kaftan, Franziska Pradel, Ayjeren Rozyjumayeva
 <!--more-->
-[Cologne Center for Comparative Politics](cccp.uni-koeln.de)  
-[Universität zu Köln](uni-koeln.de) 
+[Cologne Center for Comparative Politics](https://www.cccp.uni-koeln.de/)  
+[Universität zu Köln](https://www.uni-koeln.de/) 
 <!--more-->
 Herbert-Lewin-Straße 2  
 50931 Köln  
