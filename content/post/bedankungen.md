@@ -7,17 +7,15 @@ authors:
 date: "2020-04-01"
 description: to be written
 images:
-- danke.jpg
+- danke1.jpg
 tags:
 - Danke!
-title: Finanzierung & Unterstuetzung
+title: Finanzierung & Unterstützung
 ---
 
 Dankeschön!
 <!--more-->
 
-Das Projekt wird freundlicherweise aus [Mitteln des Finanzfonds zur Umsetzung des gesetzlichen Gleichstellungsauftrags](https://strategy.uni-koeln.de/gremien__und_sonstige_akademische_angelegenheiten/frauenfoerderung/finanzfonds_zur_umsetzung_des_gesetzlichen_gleichstellungsauftrags/index_ger.html) der Universitaet zu Koeln finanziert und organisatorisch, sowie durch das [Center for Comparative Politics](cccp.uni-koeln.de) und die Verwaltung der Universit?t zu Koeln unterstuetzt. 
+Das Projekt wird aus [Mitteln des Finanzfonds zur Umsetzung des gesetzlichen Gleichstellungsauftrags](https://strategy.uni-koeln.de/gremien__und_sonstige_akademische_angelegenheiten/frauenfoerderung/finanzfonds_zur_umsetzung_des_gesetzlichen_gleichstellungsauftrags/index_ger.html) der Universität zu Köln finanziert und organisatorisch, sowie durch das [Center for Comparative Politics](https://cccp.uni-koeln.de), im Besonderen von Cyril Gläser-Zolke, und die Verwaltung der Universität zu Köln unterstützt.
 
-Wir bedanken uns besonders fuer die Unterstuetzung von und Zusammenarbeit mit [Prof. Dr. Ingo Rohlfing](https://ingorohlfing.wordpress.com/).
-
-Also Cyril?
+Wir bedanken uns besonders für die Unterstützung von und Zusammenarbeit mit [Prof. Dr. Ingo Rohlfing](https://ingorohlfing.wordpress.com/).

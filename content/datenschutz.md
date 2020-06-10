@@ -30,9 +30,11 @@ Die Daten werden auf dem Server des externen, akademischen Speicherdienstes Scie
 Eine automatisierte Entscheidungsfindung basierend auf Ihren Daten (z.B. Profiling) findet nicht statt.
 
 Bei Anmeldung bitten wir Sie, noch einmal gesondert der Speicherung und Verarbeitung Ihrer Daten zum Zweck der Durchführung des Kurses schriftlich im Sinne dieser Erklärung zuzustimmen.
+
  
 #### Verantwortliche für den Datenschutz
 Verantwortlich für den Datenschutz sind:
+
 Franziska Deeg, Lea Kaftan, Franziska Pradel, Ayjeren Rozyjumayeva
 
 [Cologne Center for Comparative Politics](cccp.uni-koeln.de)   
@@ -69,9 +71,9 @@ Sie können die vorgenannten Rechte vorzugsweise bei den oben genannten, für de
 Sie haben außerdem das Recht sich bei einer Aufsichtsbehörde zu beschweren. Aufsichtsbehörde für die Verantwortlichen ist:
 
 Landesbeauftragte für Datenschutz und Informationsfreiheit  Nordrhein-Westfalen  
+
 Postfach 20 04 44  
 40102 Düsseldorf  
-
 Tel.: 0211/38424-0  
 Fax: 0211/38424-10  
 E-Mail: poststelle@ldi.nrw.de  
@@ -83,9 +85,9 @@ Anonyme Daten aus der Evaluation und den Umfragen können unter Umständen läng
 
 Für die Umfragen verwenden wir aller Voraussicht nach die Software mentimeter. Mentimeter ist ein schwedisches Unternehmen und somit, ebenso wie wir, an die DSGVO gebunden. Die Software wird über den Browser benutzt. Eine Anmeldung ist nicht notwendig. Datenschutzrechtliche Informationen zu mentimeter können Sie der Homepage von [mentimeter](mentimeter.com) entnehmen. Kosten entstehen dabei nicht.
 
-Für die Durchführung des Online-Kurses verwenden wir die Software Zoom. Daraus entstehen eventuell weitere datenschutzrechtliche Ansprüche, die Sie der [Homepage von Zoom] (zoom.us) entnehmen können. Kosten entstehen dabei nicht.
+Für die Durchführung des Online-Kurses verwenden wir die Software Zoom. Daraus entstehen eventuell weitere datenschutzrechtliche Ansprüche, die Sie der [Homepage von Zoom](https://zoom.us) entnehmen können. Kosten entstehen dabei nicht.
 
-Weiterhin nutzen wir die Software RStudio Cloud. Hier müssen Teilnehmerinnen für die Dauer des Kurses ein Konto einrichten, um an den Gruppenarbeiten und Übungen über den Browser teilnehmen zu können. Datenschutzrechtliche Informationen zu RStudio Cloud finden Sie [hier]( https://rstudio.com/about/rstudio-service-terms-of-use/). Kosten entstehen dabei nicht.
+Weiterhin nutzen wir die Software RStudio Cloud. Hier müssen Teilnehmerinnen für die Dauer des Kurses ein Konto einrichten, um an den Gruppenarbeiten und Übungen über den Browser teilnehmen zu können. Datenschutzrechtliche Informationen zu RStudio Cloud finden Sie [hier](https://rstudio.com/about/rstudio-service-terms-of-use/). Kosten entstehen dabei nicht.
  
 
 

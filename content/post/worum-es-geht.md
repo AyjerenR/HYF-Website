@@ -15,7 +15,7 @@ title: Worum es geht
         & Anmeldung
 ---
 
-
+## Worum es geht?
 
 Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt. 
 <!--more-->
@@ -33,9 +33,13 @@ Keine Sorge! Dafür braucht Ihr keinerlei Vorwissen, weder in Statistik noch im 
 
 # Anmeldung
 
-Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument (HIER DOKUMENT Hinterlegen) ausgefüllt bis einschließlich **12. Juli 2020** per E-Mail an [cccp-hackfuture[at]uni-koeln.de](cccp-hackfuture@uni-koeln.de). In dem Dokument müsst ihr euren vollständigen Namen, eine gültige E-Mail Adresse und euer Geburtsdatum angeben, damit wir euch vor dem Workshop mit weiteren, wichtigen Informationen versorgen können. Bitte schaut euch auch vor der Anmeldung die [Datenschutzregelungen](HAB LEIDER DEN LINK ZU DATENSCHUTZ NOCH NICHT) genau an. Für die Teilnahme am Kurs müsst ihr 16 Jahre oder älter sein. 
-Bei Fragen könnt ihr euch auch gerne mit uns über [cccp-hackfuture[at]uni-koeln.de](cccp-hackfuture@uni-koeln.de) in Verbindung setzen.
+Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im [Wort](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.docx) oder [PDF](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.pdf) ausgefüllt bis einschließlich **12. Juli 2020** per E-Mail an cccp-hackfuture@uni-koeln.de.
+
+In dem Dokument müsst ihr euren vollständigen Namen, eine gültige E-Mail Adresse und euer Geburtsdatum angeben, damit wir euch vor dem Workshop mit weiteren, wichtigen Informationen versorgen können. Bitte schaut euch auch vor der Anmeldung die [Datenschutzregelungen](/datenschutz/) genau an. Für die Teilnahme am Kurs müsst ihr 16 Jahre oder älter sein. 
+
+Bei Fragen könnt ihr euch auch gerne mit uns über cccp-hackfuture@uni-koeln.de in Verbindung setzen.
 Wir freuen uns auf euch!
+
 
 
 
