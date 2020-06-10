@@ -10,7 +10,7 @@ images:
 - temas.jpg
 tags:
 - Danke!
-title: Unsere Team
+title: Unser Team
 ---
   
 Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben. 
