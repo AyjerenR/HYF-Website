@@ -3,7 +3,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Franziska Deeg
-- Jeren Rzj
+- Jeren R.B.
 date: "2020-05-14"
 description: to be written
 images:

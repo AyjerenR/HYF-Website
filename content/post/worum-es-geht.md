@@ -3,7 +3,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Franziska Deeg
-- Jeren Rzj
+- Jeren R.B.
 date: "2020-06-09"
 description: Lorem Ipsum Dolor Si Amet
 images:

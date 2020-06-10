@@ -3,7 +3,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Franziska Deeg
-- Jeren Rzj
+- Jeren R.B.
 
 date: "2020-06-04"
 description: A brief description of Hugo Shortcodes
