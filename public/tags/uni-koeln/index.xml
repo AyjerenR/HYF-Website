@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uni Koeln on    Hack Your Future   </title>
-    <link>/tags/uni-koeln/</link>
+    <link>https://example.com/tags/uni-koeln/</link>
     <description>Recent content in uni Koeln on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/uni-koeln/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/uni-koeln/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Informationen für Eltern &amp; LehrerInnen</title>
-      <link>/post/eltern-lehrer-info/</link>
+      <link>https://example.com/post/eltern-lehrer-info/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/eltern-lehrer-info/</guid>
+      <guid>https://example.com/post/eltern-lehrer-info/</guid>
       <description>&lt;p&gt;Hack Your Future richtet sich an alle interessierten Schülerinnen der Oberstufe, die sich für Journalismus, Wissenschaft oder ganz allgemein für die Beantwortung spannender Fragen mithilfe von Daten begeistern können.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Unser Team</title>
-      <link>/post/team/</link>
+      <link>https://example.com/post/team/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/team/</guid>
+      <guid>https://example.com/post/team/</guid>
       <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.&lt;/p&gt;</description>
     </item>
     
