@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/danke/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unser Team</title>
+      <link>https://example.com/post/uber-das-team/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/uber-das-team/</guid>
+      <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Finanzierung &amp; Unterstützung</title>

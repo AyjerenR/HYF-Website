@@ -112,18 +112,9 @@
     </item>
     
     <item>
-      <title>team</title>
-      <link>https://example.com/tags/team/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Danke!</title>
       <link>https://example.com/tags/danke/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/danke/</guid>
       <description></description>

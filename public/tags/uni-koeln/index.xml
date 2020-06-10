@@ -21,14 +21,5 @@
       <description>&lt;p&gt;Hack Your Future richtet sich an alle interessierten Schülerinnen der Oberstufe, die sich für Journalismus, Wissenschaft oder ganz allgemein für die Beantwortung spannender Fragen mithilfe von Daten begeistern können.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Unser Team</title>
-      <link>https://example.com/post/team/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/team/</guid>
-      <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
