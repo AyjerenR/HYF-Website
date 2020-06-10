@@ -32,7 +32,7 @@ Keine Sorge! Dafür braucht Ihr keinerlei Vorwissen, weder in Statistik noch im 
 
 # Anmeldung
 
-Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im [Wort](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.docx) oder [PDF](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.pdf) ausgefüllt bis einschließlich **12. Juli 2020** per E-Mail an cccp-hackfuture@uni-koeln.de.
+Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im **[Wort](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.docx) oder [PDF](https://www.dropbox.com/home/Hack%20Your%20Future?preview=Anmeldeformular.pdf)** ausgefüllt bis einschließlich **12. Juli 2020** per E-Mail an cccp-hackfuture@uni-koeln.de.
 
 In dem Dokument müsst ihr euren vollständigen Namen, eine gültige E-Mail Adresse und euer Geburtsdatum angeben, damit wir euch vor dem Workshop mit weiteren, wichtigen Informationen versorgen können. Bitte schaut euch auch vor der Anmeldung die [Datenschutzregelungen](/datenschutz/) genau an. Für die Teilnahme am Kurs müsst ihr 16 Jahre oder älter sein. 
 
