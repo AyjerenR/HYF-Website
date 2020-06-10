@@ -7,7 +7,7 @@ authors:
 date: "2020-05-14"
 description: to be written
 images:
-- team2.jpg
+- temas.jpg
 tags:
 - team
 - uni Koeln
