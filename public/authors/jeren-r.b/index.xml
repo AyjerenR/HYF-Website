@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeren R.B. on    Hack Your Future   </title>
-    <link>/authors/jeren-r.b./</link>
+    <link>https://example.com/authors/jeren-r.b./</link>
     <description>Recent content in Jeren R.B. on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/jeren-r.b./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/authors/jeren-r.b./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Worum es geht &amp; Anmeldung</title>
-      <link>/post/worum-es-geht/</link>
+      <link>https://example.com/post/worum-es-geht/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/worum-es-geht/</guid>
+      <guid>https://example.com/post/worum-es-geht/</guid>
       <description>&lt;p&gt;Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Informationen für Teilnehmerinnen</title>
-      <link>/post/teilnehmer-info/</link>
+      <link>https://example.com/post/teilnehmer-info/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/teilnehmer-info/</guid>
+      <guid>https://example.com/post/teilnehmer-info/</guid>
       <description>&lt;p&gt;Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid älter als 16 Jahre? Wir freuen uns auf euch!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Informationen für Eltern &amp; LehrerInnen</title>
-      <link>/post/eltern-lehrer-info/</link>
+      <link>https://example.com/post/eltern-lehrer-info/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/eltern-lehrer-info/</guid>
+      <guid>https://example.com/post/eltern-lehrer-info/</guid>
       <description>&lt;p&gt;Hack Your Future richtet sich an alle interessierten Schülerinnen der Oberstufe, die sich für Journalismus, Wissenschaft oder ganz allgemein für die Beantwortung spannender Fragen mithilfe von Daten begeistern können.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Vorläufiges Programm für Hack Your Future</title>
-      <link>/post/programm/</link>
+      <link>https://example.com/post/programm/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/programm/</guid>
+      <guid>https://example.com/post/programm/</guid>
       <description>&lt;p&gt;Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Was ist Data Science?</title>
-      <link>/post/was-ist-data-science/</link>
+      <link>https://example.com/post/was-ist-data-science/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/was-ist-data-science/</guid>
+      <guid>https://example.com/post/was-ist-data-science/</guid>
       <description>&lt;h4 id=&#34;daten-sind-heutzutage-allgegenwärtig&#34;&gt;Daten sind heutzutage allgegenwärtig.&lt;/h4&gt;</description>
     </item>
     
     <item>
       <title>Unser Team</title>
-      <link>/post/team/</link>
+      <link>https://example.com/post/team/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/team/</guid>
+      <guid>https://example.com/post/team/</guid>
       <description>&lt;p&gt;Wir sind vier Forscherinnen am Cologne Center for Comparative Politics (CCCP) an der Universität zu Köln, die ihre Doktorarbeiten in verschiedenen Themengebieten der Politikwissenschaft schreiben.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Finanzierung &amp; Unterstützung</title>
-      <link>/post/bedankungen/</link>
+      <link>https://example.com/post/bedankungen/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/bedankungen/</guid>
+      <guid>https://example.com/post/bedankungen/</guid>
       <description>&lt;p&gt;Dankeschön!&lt;/p&gt;</description>
     </item>
     
