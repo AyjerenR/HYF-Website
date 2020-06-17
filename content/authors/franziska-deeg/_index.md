@@ -1,6 +1,6 @@
 ---
 images:
-- franziska-deeg.jpg
+- FD.jpg
 name: Franziska Deeg
 twitter: FranziskaDeeg
 ---
