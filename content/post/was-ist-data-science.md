@@ -2,9 +2,9 @@
 aliases:
 - migrate-from-jekyl
 authors:
+- Franziska Deeg
 - Lea Kaftan
 - Franziska Pradel
-- Franziska Deeg
 - Jeren Rzj
 categories:
 - themes
