@@ -15,7 +15,7 @@ tags:
 title: Informationen für Teilnehmerinnen
 ---
 
-Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid älter als 16 Jahre? Wir freuen uns auf euch!
+Ihr habt Lust, erste Einblicke in wissenschaftliches Arbeiten und in die systematische Auswertung relevanter Daten zu gewinnen? Ihr identifiziert euch als Frau und seid 16 Jahre oder älter? Wir freuen uns auf euch!
 <!--more-->
 
 Ihr braucht keinerlei Vorwissen und könnt gerne schlecht (oder gut) in Mathe, Statistik oder Informatik sein. Ihr solltet offen an die Inhalte und Herausforderungen des Kurses herangehen und jederzeit Fragen stellen, wenn ihr welche habt.
