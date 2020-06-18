@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>karriere on    Hack Your Future   </title>
-    <link>https://www.hyf-koeln.org/tags/karriere/</link>
+    <link>/tags/karriere/</link>
     <description>Recent content in karriere on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.hyf-koeln.org/tags/karriere/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/karriere/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vorläufiges Programm für Hack Your Future</title>
-      <link>https://www.hyf-koeln.org/post/programm/</link>
+      <link>/post/programm/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hyf-koeln.org/post/programm/</guid>
+      <guid>/post/programm/</guid>
       <description>&lt;p&gt;Wir feilen zurzeit an dem Programm. Bis zu Beginn des Workshops kann es daher vereinzelt zu kleineren Änderungen kommen.&lt;/p&gt;</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on    Hack Your Future   </title>
-    <link>https://www.hyf-koeln.org/tags/index/</link>
+    <link>/tags/index/</link>
     <description>Recent content in index on    Hack Your Future   </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
     
-	<atom:link href="https://www.hyf-koeln.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://www.hyf-koeln.org/post/</link>
+      <link>/post/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hyf-koeln.org/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
