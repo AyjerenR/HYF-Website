@@ -21,11 +21,11 @@ title: Ergebnisse
   
 This is the first image
 
-![Results first part](image/menti_wc_green.jpg)
+![Results first part](images/menti_wc_green.jpg)
 
 *And here is the second image
 
-![Results the second part](image/menti_wc_green2.jpg)
+![Results the second part](images/menti_wc_green2.jpg)
 
   
   
