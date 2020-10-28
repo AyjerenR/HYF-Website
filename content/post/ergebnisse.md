@@ -24,7 +24,7 @@ This is the first image
 
 
 And here is the second image
-![](/post/ergebnisse_files/menti_wc_green2.jpg)
+
 
 
 {{< css.inline >}}
