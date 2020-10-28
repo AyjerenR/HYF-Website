@@ -22,3 +22,12 @@
 This is the first image
 
 
+
+
+
+{{< css.inline >}}
+<style>
+.canon { background: white; width: 100%; height: auto;}
+</style>
+{{< /css.inline >}}
+
