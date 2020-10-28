@@ -20,5 +20,5 @@
   ## Our first workshop is over and here are the results
   
 This is the first image
-![](/post/ergebnisse_files/menti_wc_green.jpg)
+
 
