@@ -15,15 +15,16 @@
 ---
   
   
-  Our first workshop is over and here are our results
+  Unser erster Workshop ist vorbei.
 <!--more-->
-  ## Our first workshop is over and here are the results
+  Unser erster Workshop ist vorbei. Wir hatten viel Spaß daran, einer erstaunlichen Gruppe von Studenten das Codieren beizubringen. Mit diesen Worten beschreiben Teilnehmerinnen den Kurs:
   
-This is the first image
+Interessant:
+
 ![](/post/ergebnisse_files/menti_wc_green.jpg)
 
+Und auch spannend:
 
-And here is the second image
 ![](/post/ergebnisse_files/menti_wc_green2.jpg)
 
 
