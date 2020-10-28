@@ -19,12 +19,13 @@ title: Ergebnisse
 <!--more-->
   ## Our first workshop is over and here are the results
   
-  *This is the first image
-![Results first part](menti_wc_green.jpg)
+This is the first image
+
+![Results first part](image/menti_wc_green.jpg)
 
 *And here is the second image
 
-![Results the second part](menti_wc_green2.jpg)
+![Results the second part](image/menti_wc_green2.jpg)
 
   
   
