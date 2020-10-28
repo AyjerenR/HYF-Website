@@ -15,17 +15,12 @@
 ---
   
   
-  # Unser erster Workshop ist vorbei.
+  ## Unser erster Workshop ist vorbei.
 <!--more-->
   Unser erster Workshop ist vorbei. Wir hatten viel Spaß daran, einer erstaunlichen Gruppe von Schülerinnen das Codieren beizubringen. Mit diesen Worten beschreiben Teilnehmerinnen den Kurs:
   
-## Interessant:
 
 ![](/post/ergebnisse_files/menti_wc_green.jpg)
-
-## Und spannend:
-
-![](/post/ergebnisse_files/menti_wc_green2.jpg)
 
 
 {{< css.inline >}}
