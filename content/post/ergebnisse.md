@@ -22,12 +22,3 @@
 This is the first image
 ![](/post/ergebnisse_files/menti_wc_green.jpg)
 
-  
-  
-  
-  
-  {{< css.inline >}}
-<style>
-  .canon { background: white; width: 100%; height: auto;}
-</style>
-  {{< /css.inline >}}
