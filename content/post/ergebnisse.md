@@ -19,9 +19,9 @@
 <!--more-->
   Unser erster Workshop ist vorbei. Wir hatten viel Spaß daran, einer erstaunlichen Gruppe von Schülerinnen das Codieren beizubringen. Mit diesen Worten beschreiben Teilnehmerinnen den Kurs:
   
-<center>
+
 ![](/post/ergebnisse_files/menti_wc_green.jpg)
-<center>
+
 
 {{< css.inline >}}
 <style>
