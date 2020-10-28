@@ -21,7 +21,7 @@
   
 <p align="center">
 ![](/post/ergebnisse_files/menti_wc_green.jpg)
-
+</p>
 
 {{< css.inline >}}
 <style>
