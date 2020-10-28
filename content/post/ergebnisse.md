@@ -7,7 +7,7 @@
   date: "2020-10-27"
   description: First results
   images:
-  - results.jpg
+  - danke1.jpg
   tags:
   - workshop
   - results
@@ -20,12 +20,7 @@
   ## Our first workshop is over and here are the results
   
 This is the first image
-
-![Results first part](images/menti_wc_green.jpg)
-
-*And here is the second image
-
-![Results the second part](images/menti_wc_green2.jpg)
+![](/post/ergebnisse_files/menti_wc_green.jpg)
 
   
   
