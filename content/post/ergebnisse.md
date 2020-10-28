@@ -4,14 +4,14 @@
   - Lea Kaftan
   - Franziska Pradel
   - Jeren Rzj
-date: "2020-10-27"
-description: First results
-images:
+  date: "2020-10-27"
+  description: First results
+  images:
   - results.jpg
-tags:
+  tags:
   - workshop
-- results
-title: Ergebnisse
+  - results
+  title: Ergebnisse
 ---
   
   
