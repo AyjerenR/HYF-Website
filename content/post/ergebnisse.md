@@ -7,7 +7,7 @@
   date: "2020-10-27"
   description: First results
   images:
-  - danke1.jpg
+  - results.jpg
   tags:
   - workshop
   - results
