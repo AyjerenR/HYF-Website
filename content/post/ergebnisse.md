@@ -1,10 +1,10 @@
 ---
   authors:
   - Franziska Deeg
-- Lea Kaftan
-- Franziska Pradel
-- Jeren Rzj
-date: "2020-27-10"
+  - Lea Kaftan
+  - Franziska Pradel
+  - Jeren Rzj
+date: "2020-10-27"
 description: First results
 images:
   - results.jpg
