@@ -37,7 +37,7 @@ author = "authors"
 
 [params]
   author = "Hack Your Future Authors"
-  description = "Köln, 17. - 21. August 2020"
+  description = "Köln, 02. - 06. August 2021"
   homepageImage = "/images/homepage-image2.jpg"
   share = true
   showLanguageSwitcher = false
