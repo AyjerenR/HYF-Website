@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 - 2021, Universitaet zu Köln &amp; Organizers; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.hyf-koeln.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wieder da</title>
+      <link>https://www.hyf-koeln.org/tags/wieder-da/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyf-koeln.org/tags/wieder-da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://www.hyf-koeln.org/tags/workshop/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyf-koeln.org/tags/workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>
@@ -27,15 +45,6 @@
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.hyf-koeln.org/tags/results/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workshop</title>
-      <link>https://www.hyf-koeln.org/tags/workshop/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hyf-koeln.org/tags/workshop/</guid>
       <description></description>
     </item>
     
