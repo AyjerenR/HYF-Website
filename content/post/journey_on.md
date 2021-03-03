@@ -17,7 +17,7 @@
   
   ## Unser erster Workshop ist wieder da!
 <!--more-->
-"Wir freuen uns die n?chste Runde unseres Hack Your Future Datascience Workshops ank?ndigen zu k?nnen! Unser neuer Termin ist die Woche von 02. - 06. August 2021. In dieser Woche wollen wir euch wieder erste Einblicke in die Datenwissenschaften vermitteln und euch mit der Programmiersprache R vertraut machen. Dieses Mal ist der Online-Workshop f?r Sch?lerinnen zwischen 16-18 Jahren aus ganz Deutschland ge?ffnet. Wenn ihr Interesse habt, meldet euch bitte bis zum 18.07.2021 durch das folgende Formular an. Wir freuen uns auf euch!"
+"Wir freuen uns die naechste Runde unseres Hack Your Future Datascience Workshops ankuendigen zu koennen! Unser neuer Termin ist die Woche von 02. - 06. August 2021. In dieser Woche wollen wir euch wieder erste Einblicke in die Datenwissenschaften vermitteln und euch mit der Programmiersprache R vertraut machen. Dieses Mal ist der Online-Workshop fuer Schuelerinnen zwischen 16-18 Jahren aus ganz Deutschland geoeffnet. Wenn ihr Interesse habt, meldet euch bitte bis zum 18.07.2021 durch das folgende Formular an. Wir freuen uns auf euch!"
   
 
 ![](/post/ergebnisse_files/journey_is_on.jpg)
