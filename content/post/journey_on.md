@@ -5,7 +5,7 @@
   - Franziska Pradel
   - Jeren Rzj
   date: "2021-03-03"
-  description: our journey is on
+  description: Lorem Ipsum Dolor Si Amet
   images:
   - journey_is_on.jpg
   tags:
