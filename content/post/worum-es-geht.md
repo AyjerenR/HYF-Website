@@ -4,7 +4,7 @@ authors:
 - Lea Kaftan
 - Franziska Pradel
 - Jeren Rzj
-date: "2020-06-09"
+date: "2021-03-02"
 description: Lorem Ipsum Dolor Si Amet
 images:
 - markdown-syntax1.jpg
@@ -16,7 +16,7 @@ title: Worum es geht
 ---
 
 
-Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 17.-21. August statt. 
+Ihr habt euch immer schon gefragt, wie ihr einen Nobelpreis gewinnt, den erfolgreichsten Film aller Zeiten dreht oder wer am besten eure Interessen im Bundestag vertritt? Wir zeigen euch anhand dieser und weiterer Beispiele in unserem Workshop, wie ihr spannende Fragen mithilfe von Daten beantwortet. Der Workshop findet Online von 02. - 06. August statt. 
 <!--more-->
 ## Die Welt der Daten
 
@@ -32,7 +32,7 @@ Keine Sorge! Dafür braucht Ihr keinerlei Vorwissen, weder in Statistik noch im 
 
 # Anmeldung
 
-Wir haben noch einige Plätze frei. Daher akzeptieren wir Anmeldungen bis **14**. August 2020. Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im **[Word](https://www.dropbox.com/s/91z9nal5l2za1lr/Anmeldeformular.docx?dl=0) oder [PDF](https://www.dropbox.com/s/iw5kjuv6zzt1f4r/Anmeldeformular.pdf?dl=0)** ausgefüllt per E-Mail an cccp-hackfuture@uni-koeln.de.
+Wir haben noch einige Plätze frei. Daher akzeptieren wir Anmeldungen bis **18**. Juli 2020. Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im **[Word](https://www.dropbox.com/s/91z9nal5l2za1lr/Anmeldeformular.docx?dl=0) oder [PDF](https://www.dropbox.com/s/iw5kjuv6zzt1f4r/Anmeldeformular.pdf?dl=0)** ausgefüllt per E-Mail an cccp-hackfuture@uni-koeln.de.
 
 In dem Dokument müsst ihr euren vollständigen Namen, eine gültige E-Mail Adresse und euer Geburtsdatum angeben, damit wir euch vor dem Workshop mit weiteren, wichtigen Informationen versorgen können. Bitte schaut euch auch vor der Anmeldung die [Datenschutzregelungen](/datenschutz/) genau an. Für die Teilnahme am Kurs müsst ihr 16 Jahre oder älter sein. 
 
