@@ -7,7 +7,7 @@ authors:
 date: "2021-03-02"
 description: Lorem Ipsum Dolor Si Amet
 images:
-- markdown-syntax1.jpg
+- 021_HYF_W.jpg
 tags:
 - workshop
 - anmeldung formular
