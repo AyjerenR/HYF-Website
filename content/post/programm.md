@@ -21,7 +21,7 @@ Eine vollständige und finale Programmübersicht senden wir euch natürlich vor 
 
 
 #### Thema: Einführung
-Montag, 17.08.2020  
+Montag, 02.08.2021  
 09:00 Uhr - 16:30 Uhr  
 
 Begrüßung und Kennenlernen  
@@ -31,7 +31,7 @@ Einführung in die Programmiersprache R
 
 
 #### Thema: Wie kommen wir an Daten?
-Dienstag, 18.08.2020  
+Dienstag, 03.08.2021  
 09:00 - 16:30 Uhr  
 
 Quellen für Daten und Datensätze  
@@ -42,7 +42,7 @@ Gruppenarbeit: Eigene Datensätze erstellen
 
 
 #### Thema: Wie werten wir Daten aus?
-Mittwoch, 19.08.2020  
+Mittwoch, 04.08.2021  
 09:00-16:30 Uhr  
 
 Einführung in die Datenanalyse  
@@ -53,7 +53,7 @@ Gruppenarbeit: Datensätze anhand einer Fragestellung untersuchen
 
 
 #### Thema: Wie präsentieren wir unsere Ergebnisse?
-Donnerstag, 20.08.2020  
+Donnerstag, 05.08.2021  
 09:00-16:30 Uhr  
 
 Zusammenführung des bisher Gelernten mit Präsentationsplattform   
@@ -63,7 +63,7 @@ Erstellen einer Plattform zur Datenpräsentation
 Gruppenarbeit: Eigene Datenvisualisierungen auf Plattform umsetzen  
 
 #### Thema: Präsentation der Ergebnisse 
-Freitag, 21.08.2020  
+Freitag, 06.08.2021  
 09:00-16:30 Uhr  
 
 Präsentation der Gruppenarbeiten in Kleingruppen  

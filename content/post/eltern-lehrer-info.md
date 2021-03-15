@@ -21,7 +21,7 @@ Diesen Schülerinnen möchten wir die Gelegenheit bieten, erste Erfahrungen mit 
 
 #### Rahmen des Workshops
 
-Hack Your Future findet von Montag, den 17. August 2020 bis Freitag, den 21. August 2020 jeweils von 9 bis 16 Uhr online statt. Die Schülerinnen brauchen in dieser Zeit einen Arbeitsplatz, an dem sie ungestört an einem Computer, einem Laptop oder einem Tablet mit Internetzugang arbeiten können.
+Hack Your Future findet von Montag, den 02. August 2021 bis Freitag, den 06. August 2021 jeweils von 9 bis 16 Uhr online statt. Die Schülerinnen brauchen in dieser Zeit einen Arbeitsplatz, an dem sie ungestört an einem Computer, einem Laptop oder einem Tablet mit Internetzugang arbeiten können.
 
 Zu Beginn und für die Zeit des Kurses müssen die Schülerinnen nur die Software Zoom auf dem Gerät installieren, um an Gruppenarbeiten und Fragerunden teilnehmen zu können. Dabei entstehen für die Teilnehmerinnen keinerlei Kosten. Außer Zoom muss auf den Geräten keinerlei Software installiert werden. Für die Zeit des Workshops sollten die Schülerinnen außerdem vom Unterricht befreit werden, was vor Beginn des Workshops mit den zuständigen LehrerInnen abzusprechen ist.
 
