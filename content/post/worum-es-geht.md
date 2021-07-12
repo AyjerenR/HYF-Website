@@ -32,7 +32,7 @@ Keine Sorge! Dafür braucht Ihr keinerlei Vorwissen, weder in Statistik noch im 
 
 # Anmeldung
 
-Wir haben noch einige Plätze frei. Daher akzeptieren wir Anmeldungen bis **18**. Juli 2021. Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im **[Word](https://www.dropbox.com/scl/fi/tpauijrf12er4oui3k5hm/Anmeldeformular.docx?dl=0&rlkey=zxstlmb0oqag3wrl1255pcz24) oder [PDF](https://www.dropbox.com/s/3vq17698104ynky/Anmeldeformular.pdf?dl=0)** ausgefüllt per E-Mail an cccp-hackfuture@uni-koeln.de.
+Wir haben noch einige Plätze frei. Daher akzeptieren wir Anmeldungen bis **25**. Juli 2021. Wenn ihr an dem Kurs teilnehmen möchtet, dann sendet uns einfach das folgende Dokument im **[Word](https://www.dropbox.com/scl/fi/tpauijrf12er4oui3k5hm/Anmeldeformular.docx?dl=0&rlkey=zxstlmb0oqag3wrl1255pcz24) oder [PDF](https://www.dropbox.com/s/3vq17698104ynky/Anmeldeformular.pdf?dl=0)** ausgefüllt per E-Mail an cccp-hackfuture@uni-koeln.de.
 
 In dem Dokument müsst ihr euren vollständigen Namen, eine gültige E-Mail Adresse und euer Geburtsdatum angeben, damit wir euch vor dem Workshop mit weiteren, wichtigen Informationen versorgen können. Bitte schaut euch auch vor der Anmeldung die [Datenschutzregelungen](/datenschutz/) genau an. Für die Teilnahme am Kurs müsst ihr 16 Jahre oder älter sein. 
 
